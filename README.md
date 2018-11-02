@@ -48,7 +48,7 @@ Contact me if you are willing to help translate the documentation :)
 
 > The <kbd>cmd</kbd> key for _Windows_ is <kbd>ctrl</kbd>.
 
-| Shortcuts                                   | Functionality              |
+| Shortcuts                                   | Functionality             |
 | ------------------------------------------- | -------------------------- |
 | <kbd>ctrl-shift-m</kbd>                     | Toggle preview             |
 | <kbd>ctrl-shift-s</kbd>                     | Sync preview / Sync source |
